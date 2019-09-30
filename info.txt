@@ -1,0 +1,1 @@
+you need keras , sklearn and pandas for running this model. Please install them before using this code.
